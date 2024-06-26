@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="0e5fc61a-1ae1-354d-89a8-d72ff00b194e" enabled="true" level="TEXT ATTRIBUTES" enabled_by_default="true" editorAttributes="CONSIDERATION_ATTRIBUTES" />
+    <inspection_tool class="CustomRegExpInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myConfigurations">
+        <list>
+          <RegExpInspectionConfiguration>
+            <option name="description" value="&lt;label className=&quot;mr-2&quot;&gt;更新時間&lt;/label&gt;&#10;&#10;to&#10;&#10;&lt;label className=&quot;mr-2&quot;&gt;{i18n('KEY', {def: '更新時間'})}&lt;/label&gt;&#10;" />
+            <option name="name" value="Tag text convert i18n" />
+            <option name="uuid" value="0e5fc61a-1ae1-354d-89a8-d72ff00b194e" />
+            <option name="patterns">
+              <list>
+                <InspectionPattern>
+                  <option name="regExp" value="(&lt;(.*)\&gt;)+(.+)+(&lt;\/(.*)&gt;)" />
+                  <option name="_fileType" value="TypeScript JSX" />
+                  <option name="searchContext" value="ANY" />
+                  <option name="replacement" value="$1{i18n('key', {def: '$3'})}$4" />
+                </InspectionPattern>
+              </list>
+            </option>
+          </RegExpInspectionConfiguration>
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
