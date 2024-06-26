@@ -38,6 +38,10 @@
 - [Bear Docker Nginx](https://github.com/imagine10255/bear-docker-nginx) - Project task manage
 
 
+## Help
+
+- [iTerm2 + zsh](https://github.com/imagine10255/mac-terminal-helper) - Terminal Setting
+
 
 
 ## License
