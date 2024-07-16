@@ -17,7 +17,10 @@
 - [Acrool React Icon Symbols](https://github.com/acrool/acrool-react-iconsvg) - Icon
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
 - [Acrool React Toaster](https://github.com/acrool/acrool-react-toaster) - Toaster
+- [Acrool React Dialog](https://github.com/acrool/acrool-react-dialog) - React Dialog
+- [Acrool React Block](https://github.com/acrool/acrool-react-block) - React Block loading
 - [Acrool React Hook](https://github.com/acrool/acrool-react-hook) - React Hooks
+
 
 ## API Utils
 - [Acrool Graphql Plugins: React-Query](https://github.com/acrool/acrool-graphql-codegen) - Graphql React-Query
