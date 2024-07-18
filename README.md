@@ -16,6 +16,7 @@
 - [Acrool React Route Hash](https://github.com/acrool/acrool-react-router-hash) - Router Hash
 - [Acrool React Icon Symbols](https://github.com/acrool/acrool-react-iconsvg) - Icon
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
+- [Acrool React Modal](https://github.com/acrool/acrool-react-modal) - React Modal
 - [Acrool React Toaster](https://github.com/acrool/acrool-react-toaster) - Toaster
 - [Acrool React Dialog](https://github.com/acrool/acrool-react-dialog) - React Dialog
 - [Acrool React Block](https://github.com/acrool/acrool-react-block) - React Block loading
