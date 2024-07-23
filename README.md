@@ -29,7 +29,7 @@
 
 ## JS Utils
 
-- [Bear JS Utils](https://github.com/imagine10255/bear-jsutils) - JS Utils Function
+- [Acrool JS Utils](https://github.com/imagine10255/acrool-jsutils) - JS Utils Function
 - [Acrool JS Logger](https://github.com/acrool/acrool-js-logger) - Color Console Log
 - [Acrool Window Launcher](https://github.com/acrool/acrool-window-launcher) - Promise Window Open
   
