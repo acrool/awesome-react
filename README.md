@@ -17,7 +17,7 @@
 - [Acrool React Dialog](https://github.com/acrool/acrool-react-dialog) - React Dialog
 - [Acrool React Block](https://github.com/acrool/acrool-react-block) - React Block loading
 - [Acrool React Modal](https://github.com/acrool/acrool-react-modal) - React Modal Creator
-- [Acrool React Dialog](https://github.com/acrool/acrool-react-picker) - React Picker Creator
+- [Acrool React Picker](https://github.com/acrool/acrool-react-picker) - React Picker Creator
 - [Acrool React Hook](https://github.com/acrool/acrool-react-hook) - React Hooks
 - [Acrool React Provider](https://github.com/acrool/acrool-react-provider) - Provider Compose
 
