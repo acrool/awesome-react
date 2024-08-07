@@ -19,7 +19,7 @@
 - [Acrool React Modal](https://github.com/acrool/acrool-react-modal) - React Modal Creator
 - [Acrool React Picker](https://github.com/acrool/acrool-react-picker) - React Picker Creator
 - [Acrool React Hook](https://github.com/acrool/acrool-react-hook) - React Hooks
-- [Acrool React Provider](https://github.com/acrool/acrool-react-provider) - Provider Compose
+- [Acrool React Providers](https://github.com/acrool/acrool-react-providers) - Providers Compose
 
 
 ## React component
