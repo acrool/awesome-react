@@ -30,7 +30,7 @@
 - [Acrool React Table](https://github.com/acrool/acrool-react-table) - Table
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
 - [Acrool React Datepicker](https://github.com/acrool/acrool-react-datepicker) - Datepicker
-- [Acrool React AutoHeight Textarea](https://github.com/acrool/acrool-react-auto-height-textarea) - auto height textarea
+- [Acrool React AutoHeight Textarea](https://github.com/acrool/acrool-react-auto-height-textarea) - Auto Height Textarea
 
 
 ## API Utils
