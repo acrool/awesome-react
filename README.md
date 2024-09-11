@@ -43,7 +43,7 @@
 - [Acrool JS Utils](https://github.com/imagine10255/acrool-jsutils) - JS Utils Function
 - [Acrool JS Logger](https://github.com/acrool/acrool-js-logger) - Color Console Log
 - [Acrool Window Launcher](https://github.com/acrool/acrool-window-launcher) - Promise Window Open
-- [Acrool Icon Symbols](acrool-icon-symbols) - SVG Compose to SVG Symbols
+- [Acrool Icon Symbols](https://github.com/acrool/acrool-icon-symbols) - SVG Compose to SVG Symbols
   
 ## Manage System
 
