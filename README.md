@@ -32,7 +32,7 @@
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
 - [Acrool React Datepicker](https://github.com/acrool/acrool-react-datepicker) - Datepicker
 - [Acrool React AutoHeight Textarea](https://github.com/acrool/acrool-react-auto-height-textarea) - Auto Height Textarea
-
+- [Acrool React Skeleton](https://github.com/acrool/acrool-react-skeleton) - Skeleton
 
 ## API Utils
 
